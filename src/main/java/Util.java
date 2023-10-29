@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.nio.ByteBuffer;
 import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;

@@ -7,6 +7,8 @@ repositories {
 dependencies {
 	implementation platform("org.lwjgl:lwjgl-bom:3.3.3")
 
+	implementation "im.bci:pngdecoder:0.13"
+
 	implementation "org.lwjgl:lwjgl"
 	implementation "org.lwjgl:lwjgl-assimp"
 	implementation "org.lwjgl:lwjgl-bgfx"
